@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Amin Rakhsha
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate Computer Engineering Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Shairf University of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,8 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Reinforcement Learning
 
 education:
   courses:
