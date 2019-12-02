@@ -21,7 +21,6 @@ copyright = ""
 
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
-font_size = "S"
 # Get last modified date for content from Git?
 enableGitInfo = false
 
