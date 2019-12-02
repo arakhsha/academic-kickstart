@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Honors"
+title = "Accomplish&shy;ments"
 subtitle = ""
 
 # Date format
@@ -19,24 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "National Elite Foundation"
-  organization_url = ""
-  title = "National Elite Foundation Fellowship"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
   url = ""
-  certificate_url = ""
-  date_start = "2015"
-  date_end = "present"
-  description = "Given to qualified students every year"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Silver Medal in International Mathematical Olympiad (IMO)"
-  url = "https://www.imo-official.org/participant_r.aspx?id=26857"
-  certificate_url = ""
-  date_start = "2016"
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Blockchain Fundamentals"
+  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  certificate_url = "https://www.edx.org"
+  date_start = "2018-03-01"
+  date_end = ""
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
 
 [[item]]
   organization = "DataCamp"
