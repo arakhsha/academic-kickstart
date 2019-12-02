@@ -20,15 +20,23 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "National Elite Foundation"
+  organization_url = ""
   title = "National Elite Foundation Fellowship"
+  url = ""
+  certificate_url = ""
   date_start = "2015"
   date_end = "present"
   description = "Given to qualified students every year"
 
 [[item]]
+  organization = ""
+  organization_url = ""
   title = "Silver Medal in International Mathematical Olympiad (IMO)"
   url = "https://www.imo-official.org/participant_r.aspx?id=26857"
+  certificate_url = ""
   date_start = "2016"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "DataCamp"
